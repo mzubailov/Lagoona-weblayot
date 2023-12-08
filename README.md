@@ -1,3 +1,33 @@
+# Website Lagoona - hotel chain
+
+## Description
+
+This repository contains the files for my first website, developed as I learned HTML and CSS. The project showcases the fundamental principles of web development and design.
+
+## Structure
+
+- `index.html`: The main HTML file for the website.
+- `css/`: CSS styles used on the site.
+- `img/`: Images used on the site.
+- `fonts/`: Fonts applied on the site.
+
+## Viewing the Website
+
+### Local Launch
+
+To run the site locally:
+1. Clone the repository: `git clone https://github.com/mzubailov/mzubailov.github.io.git`
+2. Open `index.html` in your browser.
+
+### Online Viewing
+
+You can also visit the website online at: [https://mzubailov.github.io](https://mzubailov.github.io)
+
+## Contact
+
+Please contact me for feedback and suggestions via telegram @Maga3DK
+---
+
 # Веб-сайт Lagoona - сеть отелей
 
 ## Описание
