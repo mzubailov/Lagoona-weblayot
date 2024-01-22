@@ -22,6 +22,7 @@ To run the site locally:
 ## Contact
 
 Please contact me for feedback and suggestions via telegram @Maga3DK
+
 ---
 
 # Веб-сайт Lagoona - сеть отелей
