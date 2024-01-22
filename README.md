@@ -16,7 +16,7 @@ This repository contains the files for my first website, developed as I learned 
 ### Local Launch
 
 To run the site locally:
-1. Clone the repository: `git clone https://github.com/mzubailov/mzubailov.github.io.git`
+1. Clone the repository: `git clone https://github.com/mzubailov/Lagoona-weblayout.git`
 2. Open `index.html` in your browser.
 
 ## Contact
@@ -43,7 +43,7 @@ Please contact me for feedback and suggestions via telegram @Maga3DK
 ### Локальный запуск
 
 Чтобы запустить сайт локально:
-1. Клонируйте репозиторий: `git clone https://github.com/mzubailov/mzubailov.github.io.git`
+1. Клонируйте репозиторий: `git clone https://github.com/mzubailov/Lagoona-weblayout.git`
 2. Откройте `index.html` в вашем браузере.
 
 ## Контакты
