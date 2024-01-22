@@ -19,10 +19,6 @@ To run the site locally:
 1. Clone the repository: `git clone https://github.com/mzubailov/mzubailov.github.io.git`
 2. Open `index.html` in your browser.
 
-### Online Viewing
-
-You can also visit the website online at: [https://mzubailov.github.io](https://mzubailov.github.io)
-
 ## Contact
 
 Please contact me for feedback and suggestions via telegram @Maga3DK
@@ -48,10 +44,6 @@ Please contact me for feedback and suggestions via telegram @Maga3DK
 Чтобы запустить сайт локально:
 1. Клонируйте репозиторий: `git clone https://github.com/mzubailov/mzubailov.github.io.git`
 2. Откройте `index.html` в вашем браузере.
-
-### Онлайн просмотр
-
-Вы также можете посетить веб-сайт онлайн по адресу: [https://mzubailov.github.io](https://mzubailov.github.io)
 
 ## Контакты
 
