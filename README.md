@@ -13,6 +13,8 @@ This repository contains the files for my first website, developed as I learned 
 
 ## Viewing the Website
 
+The website is also live and can be visited at: [http://lagoona-mzubailov.tw1.ru/](http://lagoona-mzubailov.tw1.ru/)
+
 ### Local Launch
 
 To run the site locally:
@@ -39,6 +41,8 @@ Please contact me for feedback and suggestions via telegram @Maga3DK
 - `fonts/`: Шрифты, применяемые на сайте.
 
 ## Просмотр веб-сайта
+
+Сайт также опубликован и доступен по ссылке: [http://lagoona-mzubailov.tw1.ru/](http://lagoona-mzubailov.tw1.ru/)
 
 ### Локальный запуск
 
